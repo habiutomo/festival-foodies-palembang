@@ -2,7 +2,7 @@
 
 A web application showcasing food vendors, menus, and events for the Festival Foodies Palembang food festival.
 
-![Festival Foodies Palembang Screenshot](./1.png)
+![Festival Foodies Palembang Screenshot](./22.png)
 
 ![Festival Foodies Palembang Screenshot](./2.png)
 
