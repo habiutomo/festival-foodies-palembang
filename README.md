@@ -2,7 +2,9 @@
 
 A web application showcasing food vendors, menus, and events for the Festival Foodies Palembang food festival.
 
-![Festival Foodies Palembang Screenshot](https://via.placeholder.com/800x400?text=Festival+Foodies+Palembang)
+![Festival Foodies Palembang Screenshot](1.png)
+
+![Festival Foodies Palembang Screenshot](2.png)
 
 ## Overview
 
@@ -130,3 +132,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Palembang Tourism Board for festival information
 - Local vendors for their participation and content
 - The React and TypeScript communities for their excellent tools and documentation
+
+habizinnia@gmail.com
